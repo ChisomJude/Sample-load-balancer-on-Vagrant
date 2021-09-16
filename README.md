@@ -1,6 +1,11 @@
 # Sample-load-balancer-on-Vagrant
 
-### Local Development
+### Structure
+> Load balance <br />
+> Webserver <br />
+> Both NGINX
+
+### Step to Develop
 
 0. Install [Vagrant](https://www.vagrantup.com/)
 
